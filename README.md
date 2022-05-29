@@ -1,4 +1,13 @@
-### Hi there 👋
+#### Hey there 👋 
+# I'm Metehan ÖZYÜREK
+
+### About Me
+- Hobbyist Photographer📷 
+- Localization Volunteer on 75+ projects💻🇬🇧🇹🇷 
+- FOSS contributor🧑‍💻 
+- Nature lover🌱 
+- GIS and mapping🌍🗺
+
 
 <!--
 **MetehanOzyurek/MetehanOzyurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
