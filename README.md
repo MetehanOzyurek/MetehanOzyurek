@@ -1,12 +1,11 @@
-#### Hey there 👋 
 # I'm Metehan ÖZYÜREK <img src="./E3CAEFB9-1BE5-486D-8744-9FBC4B685470.png" width="60px">
 
 ### About Me
-- Hobbyist Photographer📷 
 - Localization Volunteer on 80+ projects💻🇬🇧🇹🇷 
 - FOSS contributor🧑‍💻 
-- Nature lover🌱 
 - GIS and mapping🌍🗺
+- Hobbyist Photographer📷 
+- Nature lover🌱
 
 
 <!--
