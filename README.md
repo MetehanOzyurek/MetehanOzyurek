@@ -1,4 +1,4 @@
-# I'm Metehan ÖZYÜREK <img src="./E3CAEFB9-1BE5-486D-8744-9FBC4B685470.png" width="60px">
+# I'm Metehan ÖZYÜREK<img src="./E3CAEFB9-1BE5-486D-8744-9FBC4B685470.png" width="60px">
 
 ### About Me
 - Localization Volunteer on 80+ projects💻🇬🇧🇹🇷 
@@ -7,6 +7,7 @@
 - Hobbyist Photographer📷 
 - Nature lover🌱
 
+<a href="https://t.me/MetehanOzyurek">Contact on Telegram <img src="https://telegram.org/img/t_logo.png" width="20px"></a>
 
 <!--
 **MetehanOzyurek/MetehanOzyurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
