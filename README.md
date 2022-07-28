@@ -9,6 +9,8 @@
 
 <a href="https://t.me/MetehanOzyurek">Contact on Telegram <img src="https://telegram.org/img/t_logo.png" width="20px"></a>
 
+<a href="https://twitter.com/MetehanOzyurek">Follow me on Twitter <img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89d8.svg" width="20px"></a>
+
 <!--
 **MetehanOzyurek/MetehanOzyurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
