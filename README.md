@@ -1,7 +1,7 @@
 # I'm Metehan ÖZYÜREK<img src="./E3CAEFB9-1BE5-486D-8744-9FBC4B685470.png" width="60px">
 
 ### About Me
-- Localization Volunteer on 80+ projects💻🇬🇧🇹🇷 
+- Localization Volunteer in 80+ projects💻🇬🇧🇹🇷 
 - FOSS contributor🧑‍💻 
 - GIS and mapping🌍🗺
 - Hobbyist Photographer📷 
