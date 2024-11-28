@@ -11,6 +11,8 @@
 
 <a href="https://twitter.com/MetehanOzyurek">Follow me on Twitter <img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89d8.svg" width="20px"></a>
 
+##### I've been using GitHub since June 4, 2018. Check [my other account](github.com/metehanc8s9);)
+
 <!--
 **MetehanOzyurek/MetehanOzyurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
